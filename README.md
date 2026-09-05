@@ -1,6 +1,3 @@
-# CandelaGeyfirtrepository
-Prueba de repositorio 
-Segunda prueba
 <!DOCTYPE html>
 <html lang="es">
 <head>
